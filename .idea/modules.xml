@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns-2020.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns-2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/Ex1/Ex1.iml" filepath="$PROJECT_DIR$/TP3/Ex1/Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/Ex1/Ex11.iml" filepath="$PROJECT_DIR$/TP2/Ex1/Ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4-suite/Ex1/Ex12.iml" filepath="$PROJECT_DIR$/TP4-suite/Ex1/Ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4/Ex1/Ex13.iml" filepath="$PROJECT_DIR$/TP4/Ex1/Ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/TP1/Ex2/Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4/Ex2/Ex21.iml" filepath="$PROJECT_DIR$/TP4/Ex2/Ex21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP3/Ex2/Ex22.iml" filepath="$PROJECT_DIR$/TP3/Ex2/Ex22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/Ex2/Ex23.iml" filepath="$PROJECT_DIR$/TP2/Ex2/Ex23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4-suite/Ex2/Ex24.iml" filepath="$PROJECT_DIR$/TP4-suite/Ex2/Ex24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/TP4/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/Ex3/Ex31.iml" filepath="$PROJECT_DIR$/TP1/Ex3/Ex31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4-suite/Ex3/Ex32.iml" filepath="$PROJECT_DIR$/TP4-suite/Ex3/Ex32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP5/TP5.iml" filepath="$PROJECT_DIR$/TP5/TP5.iml" />
+    </modules>
+  </component>
+</project>

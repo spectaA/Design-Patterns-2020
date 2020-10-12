@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prjCompteBancaireSuite</OriginalElement>
+  <nodes>
+    <node x="0.0" y="210.0">prjCompteBancaireSuite.CompteBancaireFrm</node>
+    <node x="301.0" y="0.0">prjCompteBancaireSuite.CompteBancaireTest</node>
+    <node x="35.0" y="0.0">prjCompteBancaireSuite.CompteBancaire</node>
+    <node x="10.0" y="508.0">prjCompteBancaireSuite.CompteBancaireFrm.AjouteMontantEcouteur</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prjCompteBancaireSuite.CompteBancaireFrm.AjouteMontantEcouteur" target="prjCompteBancaireSuite.CompteBancaireFrm">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="124.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7422680412371134" x="246.5" y="281.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

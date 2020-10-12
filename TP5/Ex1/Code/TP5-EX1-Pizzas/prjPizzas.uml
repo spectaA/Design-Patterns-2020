@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prjPizzas</OriginalElement>
+  <nodes>
+    <node x="964.0000000000001" y="157.0">prjPizzas.PizzaPateFine</node>
+    <node x="1155.0" y="157.0">prjPizzas.PizzaFoureeFromage</node>
+    <node x="582.0000000000001" y="126.0">prjPizzas.PizzaToppings</node>
+    <node x="973.0000000000001" y="324.0">prjPizzas.Oignons</node>
+    <node x="773.0000000000001" y="0.0">prjPizzas.Pizza</node>
+    <node x="773.0000000000001" y="157.0">prjPizzas.PizzaClassique</node>
+    <node x="191.0000000000001" y="324.0">prjPizzas.Jambon</node>
+    <node x="382.0000000000001" y="324.0">prjPizzas.OlivesNoires</node>
+    <node x="0.0" y="487.0">prjPizzas.Main</node>
+    <node x="1164.0" y="324.0">prjPizzas.Thon</node>
+    <node x="573.0000000000001" y="324.0">prjPizzas.BoulettesDeViande</node>
+    <node x="782.0000000000001" y="324.0">prjPizzas.Fromage</node>
+    <node x="0.0" y="324.0">prjPizzas.Champignons</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prjPizzas.Oignons" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="1058.5" y="294.0" />
+      <point x="716.357142857143" y="294.0" />
+      <point x="48.85714285714289" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.PizzaPateFine" target="prjPizzas.Pizza">
+      <point x="0.0" y="-38.0" />
+      <point x="1049.5" y="106.0" />
+      <point x="892.7000000000002" y="106.0" />
+      <point x="34.200000000000045" y="38.0" />
+    </edge>
+    <edge source="prjPizzas.PizzaFoureeFromage" target="prjPizzas.Pizza">
+      <point x="0.0" y="-38.0" />
+      <point x="1251.0" y="96.0" />
+      <point x="926.9000000000001" y="96.0" />
+      <point x="68.39999999999998" y="38.0" />
+    </edge>
+    <edge source="prjPizzas.BoulettesDeViande" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="0.0" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.Champignons" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="85.5" y="284.0" />
+      <point x="594.2142857142858" y="284.0" />
+      <point x="-73.28571428571433" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.Thon" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="1249.5" y="284.0" />
+      <point x="740.7857142857144" y="284.0" />
+      <point x="73.28571428571433" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.PizzaToppings" target="prjPizzas.Pizza">
+      <point x="-42.75" y="-69.0" />
+      <point x="624.7500000000001" y="96.0" />
+      <point x="790.1000000000001" y="96.0" />
+      <point x="-68.39999999999998" y="38.0" />
+    </edge>
+    <edge source="prjPizzas.Jambon" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="276.5000000000001" y="294.0" />
+      <point x="618.6428571428572" y="294.0" />
+      <point x="-48.85714285714289" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.PizzaClassique" target="prjPizzas.Pizza">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="prjPizzas.OlivesNoires" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="467.5000000000001" y="304.0" />
+      <point x="643.0714285714287" y="304.0" />
+      <point x="-24.428571428571445" y="69.0" />
+    </edge>
+    <edge source="prjPizzas.Fromage" target="prjPizzas.PizzaToppings">
+      <point x="0.0" y="-59.0" />
+      <point x="867.5000000000001" y="304.0" />
+      <point x="691.9285714285716" y="304.0" />
+      <point x="24.428571428571445" y="69.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7700534759358288" x="673.5" y="270.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

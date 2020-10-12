@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>prjSelfBanking</OriginalElement>
+  <nodes>
+    <node x="35.0" y="510.0">prjSelfBanking.BanqueFrm</node>
+    <node x="526.0" y="342.0">prjSelfBanking.CompteEpargne</node>
+    <node x="283.0" y="0.0">prjSelfBanking.CompteBancaire</node>
+    <node x="0.0" y="320.0">prjSelfBanking.Banque</node>
+    <node x="0.0" y="737.0">prjSelfBanking.Main</node>
+    <node x="730.0" y="342.0">prjSelfBanking.CompteCourant</node>
+    <node x="330.0" y="331.0">prjSelfBanking.ComptePayant</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="prjSelfBanking.CompteEpargne" target="prjSelfBanking.CompteBancaire">
+      <point x="0.0" y="-48.0" />
+      <point x="618.0" y="300.0" />
+      <point x="472.0" y="300.0" />
+      <point x="54.0" y="135.0" />
+    </edge>
+    <edge source="prjSelfBanking.ComptePayant" target="prjSelfBanking.CompteBancaire">
+      <point x="0.0" y="-59.0" />
+      <point x="0.0" y="135.0" />
+    </edge>
+    <edge source="prjSelfBanking.CompteCourant" target="prjSelfBanking.CompteBancaire">
+      <point x="0.0" y="-48.0" />
+      <point x="821.0" y="290.0" />
+      <point x="526.0" y="290.0" />
+      <point x="108.0" y="135.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5326757090012331" x="456.0" y="395.5" />
+  <SelectedNodes>
+    <node>prjSelfBanking.BanqueFrm</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

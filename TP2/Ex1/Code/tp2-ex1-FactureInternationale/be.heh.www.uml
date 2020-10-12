@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>be.heh.www</OriginalElement>
+  <nodes>
+    <node x="442.0" y="168.0">be.heh.www.AffichageAllemagne</node>
+    <node x="654.0" y="168.0">be.heh.www.AffichageBelgique</node>
+    <node x="0.0" y="331.0">be.heh.www.Client</node>
+    <node x="221.99999999999997" y="168.0">be.heh.www.AffichageRoyaumeUni</node>
+    <node x="351.0" y="0.0">be.heh.www.Affichage</node>
+    <node x="0.0" y="104.0">be.heh.www.Facture</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="be.heh.www.AffichageAllemagne" target="be.heh.www.Affichage">
+      <point x="0.0" y="-27.0" />
+      <point x="538.0" y="84.0" />
+      <point x="449.75" y="84.0" />
+      <point x="19.75" y="27.0" />
+    </edge>
+    <edge source="be.heh.www.AffichageRoyaumeUni" target="be.heh.www.Affichage">
+      <point x="0.0" y="-27.0" />
+      <point x="322.0" y="84.0" />
+      <point x="410.25" y="84.0" />
+      <point x="-19.75" y="27.0" />
+    </edge>
+    <edge source="be.heh.www.AffichageBelgique" target="be.heh.www.Affichage">
+      <point x="0.0" y="-27.0" />
+      <point x="746.0" y="74.0" />
+      <point x="489.25" y="74.0" />
+      <point x="59.25" y="27.0" />
+    </edge>
+    <edge source="be.heh.www.Facture" target="be.heh.www.Affichage">
+      <point x="0.0" y="-91.0" />
+      <point x="101.0" y="74.0" />
+      <point x="370.75" y="74.0" />
+      <point x="-59.25" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="387.0" y="191.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
